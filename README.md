@@ -58,3 +58,29 @@
 6. Usability
     * User interface of web application should be clean and simple to use for each type of user.
 
+
+# **<pre>Mobile application to aid hear loss</pre>**
+
+## 2) Identify scope, features and non-functional aspects of the following problem
+
+### **Scope**
+
+1. The 5% of people worldwide who have hearing loss will be the application's target market.
+2. Such individuals would be the intended audience for this software since they are the ones for whom it was created.
+    
+### **Features**
+
+1. The application will run in the background also.
+2. The application will alert user about incoming sounds.
+3. The sound recorded must also be logged properly in readable format
+4. The application will alert the user when it recognizes the sounds of critical situations.
+5. Notify friends and relatives if a critical emergency is identified and the user doesn't respond.
+6. Latency of application must be much less (2 ms around).
+
+### **Non-Functional aspects**
+
+1. The application should alert the user through some vibrations or something else.
+2. When walking, the application should be able to recommend the lanes with the least amount of traffic.
+3. Users should be able to send their current position to friends and relatives in case of an emergency via the app.
+4. Users should be able to add extra sounds, which the application must be able to identify the user.
+5. The latency of the app should be at most 2 seconds.
